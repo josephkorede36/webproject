@@ -287,7 +287,7 @@
         <div class="row" data-aos="zoom-in" data-aos-delay="100">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="../../assets/img/team/team-1.jpg" class="img-fluid" alt="">
+              <img src="../../assets/img/team/joseph.png" class="img-fluid" alt="" height="720" width="720">
               <div class="member-content">
                 <h4>Adegbehingbe Oluwakorede</h4>
                 <span>HTML & CSS Development, UI UX Design</span>
@@ -305,7 +305,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="../../assets/img/team/team-2.jpg" class="img-fluid" alt="">
+              <img src="../../assets/img/team/david.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Akerele David</h4>
                 <span>JavaScript & PHP, UI UX Design</span>
@@ -314,8 +314,8 @@
                   He also designed the UI UX of the site.
                 </p>
                 <div class="contact-info">
-                  <p>Email: <i>josephkorede36@gmail.com</i> </p>
-                  <p>Phone: <i>+234 8021351855</i> </p>
+                  <p>Email: <i>yhung10en@gmail.com</i> </p>
+                  <p>Phone: <i>+234 9059033199</i> </p>
                 </div>
               </div>
             </div>
@@ -323,16 +323,16 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="../../assets/img/team/team-3.jpg" class="img-fluid" alt="">
+              <img src="../../assets/img/team/yinka.jpeg" class="img-fluid" alt="">
               <div class="member-content">
-                <h4>Adeoshun Olayinka Paul</h4>
-                <span>Digital Literacy</span>
+                <h4>Adeosun Olayinka Paul</h4>
+                <span>HTML and CSS</span>
                 <p>
-                  Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+                  Olayinka worked on the frontend design of the website.
                 </p>
                 <div class="contact-info">
-                  <p>Email: <i>josephkorede36@gmail.com</i> </p>
-                  <p>Phone: <i>+234 8021351855</i> </p>
+                  <p>Email: <i>yinkaadeosun14@gmail.com</i> </p>
+                  <p>Phone: <i>+234 8128287300</i> </p>
                 </div>
               </div>
             </div>
@@ -341,16 +341,12 @@
           <div class="row" data-aos="zoom-in" data-aos-delay="100">
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <img src="../../assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                <img src="../../assets/img/team/joel.png" class="img-fluid" alt="">
                 <div class="member-content">
                   <h4>Agunbiade Joel</h4>
-                  <span>HTML & CSS Development</span>
-                  <p>
-                    Joseph worked on the front end design of Literate using HTML and CSS.
-                  </p>
                   <div class="contact-info">
-                    <p>Email: <i>josephkorede36@gmail.com</i> </p>
-                    <p>Phone: <i>+234 8021351855</i> </p>
+                    <p>Email: <i>joelagunbiade@icloud.com</i> </p>
+                    <p>Phone: <i>+234 9055217392</i> </p>
                   </div>
                 </div>
               </div>
@@ -358,16 +354,16 @@
   
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <img src="../../assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                <img src="../../assets/img/team/elton.jpeg" class="img-fluid" alt="">
                 <div class="member-content">
                   <h4>Akuwudike, Chidiebube Elton</h4>
-                  <span>Digital Literacy</span>
+                  <span>HTML and CSS</span>
                   <p>
-                    Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+                    Elton designed the frontend of the website.
                   </p>
                   <div class="contact-info">
-                    <p>Email: <i>josephkorede36@gmail.com</i> </p>
-                    <p>Phone: <i>+234 8021351855</i> </p>
+                    <p>Email: <i>akuwudikeelton@gmail.com</i> </p>
+                    <p>Phone: <i>+234 7017367142</i> </p>
                   </div>
                 </div>
               </div>
@@ -375,16 +371,12 @@
   
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <img src="../../assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                <img src="../../assets/img/team/ebenezer.png" class="img-fluid" alt="">
                 <div class="member-content">
                   <h4>Asibor Ebenezer</h4>
-                  <span>Digital Literacy</span>
-                  <p>
-                    Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
-                  </p>
                   <div class="contact-info">
-                    <p>Email: <i>josephkorede36@gmail.com</i> </p>
-                    <p>Phone: <i>+234 8021351855</i> </p>
+                    <p>Email: <i>asiborebenezer67@gmail.com</i> </p>
+                    <p>Phone: <i>+234 9019846593</i></p>
                   </div>
                 </div>
               </div>
@@ -393,16 +385,16 @@
             <div class="row" data-aos="zoom-in" data-aos-delay="100">
               <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                 <div class="member">
-                  <img src="../../assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                  <img src="../../assets/img/team/emmanuel.png" class="img-fluid" alt="">
                   <div class="member-content">
                     <h4>Bello Emmanuel</h4>
                     <span>HTML & CSS Development</span>
                     <p>
-                      Joseph worked on the front end design of Literate using HTML and CSS.
+                     Emmanuel worked on the front end design of the website.
                     </p>
                     <div class="contact-info">
-                      <p>Email: <i>josephkorede36@gmail.com</i> </p>
-                      <p>Phone: <i>+234 8021351855</i> </p>
+                      <p>Email: <i>belloemmanuel308@gmail.com</i></p>
+                      <p>Phone: <i>+234 7065740766</i></p>
                     </div>
                   </div>
                 </div>
@@ -413,10 +405,6 @@
                   <img src="../../assets/img/team/team-2.jpg" class="img-fluid" alt="">
                   <div class="member-content">
                     <h4>Djekou Johnsen Dacouri</h4>
-                    <span>Digital Literacy</span>
-                    <p>
-                      Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
-                    </p>
                     <div class="contact-info">
                       <p>Email: <i>johnsendjekou5@gmail.com</i></p>
                       <p>Phone: <i>+234 8101575120</i></p>
@@ -427,13 +415,9 @@
     
               <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                 <div class="member">
-                  <img src="../../assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                  <img src="../../assets/img/team/elujoba.png" class="img-fluid" alt="">
                   <div class="member-content">
                     <h4>Elujoba Olorunfemi</h4>
-                    <span>Digital Literacy</span>
-                    <p>
-                      Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
-                    </p>
                     <div class="contact-info">
                       <p>Email: <i>elujobaolorunfemiayodeji@gmail.com</i> </p>
                       <p>Phone: <i>+234 8136338498</i> </p>
@@ -444,16 +428,12 @@
 
               <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                 <div class="member">
-                  <img src="../../assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                  <img src="../../assets/img/team/owen.jpeg" class="img-fluid" alt="">
                   <div class="member-content">
                     <h4>Eto-Ihekwaba Owen</h4>
-                    <span>Digital Literacy</span>
-                    <p>
-                      Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
-                    </p>
                     <div class="contact-info">
-                      <p>Email: <i>josephkorede36@gmail.com</i> </p>
-                      <p>Phone: <i>+234 8021351855</i> </p>
+                      <p>Email: <i>owen.ihekwaba6@gmail.com</i> </p>
+                      <p>Phone: <i>+234 8156842244</i> </p>
                     </div>
                   </div>
                 </div>
